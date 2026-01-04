@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">قاعدة أنمي</string>
+    <string name="search_hint">ابحث عن أنمي…</string>
+    <string name="add_to_list">إضافة إلى قائمتي</string>
+    <string name="saved">تم الحفظ!</string>
+    <string name="settings">الإعدادات</string>
+    <string name="token_label">رمز AniList API</string>
+    <string name="save">حفظ</string>
+    <string name="today">اليوم</string>
+    <string name="my_list">قائمتي</string>
+    <string name="checking">جاري التحقق من التحديثات…</string>
+    <string name="fetching">جاري الجلب…</string>
+    <string name="no_results">لا توجد نتائج</string>
+    <string name="error">حدث خطأ</string>
+    <string name="token_saved">تم حفظ الرمز بشكل آمن</string>
+    <string name="anime_saved">تم حفظ الأنمي في المجلد المحلي</string>
+    <string name="data_folder">البيانات محفوظة في: /Android/media/com.example.animedb/files/anime_db/</string>
+</resources>
