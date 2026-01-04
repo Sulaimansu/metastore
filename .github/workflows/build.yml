@@ -23,10 +23,10 @@ jobs:
         wget https://services.gradle.org/distributions/gradle-8.2-bin.zip
         unzip gradle-8.2-bin.zip
         sudo ln -sf $PWD/gradle-8.2/bin/gradle /usr/local/bin/gradle
-        gradle --version
 
     - name: Build Debug APK
       run: |
+        cd app
         gradle assembleDebug
 
     - name: Upload APK
